@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class = "container panel panel-info">
-		<h3>TEST000 - Second</h3>
+		<h3>TEST000 - Third</h3>
 	</div>
 </body>
 </html>
